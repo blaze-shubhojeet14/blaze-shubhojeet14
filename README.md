@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blaze-shubhojeet14
+- 👋 Hi, I’m @blaze-shubhojeet14 Shubhojeet AKA Blaze
 - 👀 I’m interested in programming & technology
 - 🌱 I’m currently learning Python & C#
 - 📫 How to reach me - shubhojeetblaze14@gmail.com
